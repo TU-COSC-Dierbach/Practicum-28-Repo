@@ -1,6 +1,6 @@
 # Instructions  
 
-## PRACTICUM 128 -Circle, Square, Triangle Classes <br>
+## PRACTICUM 28 -Circle, Square, Triangle Classes <br>
 
 ### WHAT TO DO<br>
 For the Circle, Square Triangle polymorphism example discussed in class and posted
